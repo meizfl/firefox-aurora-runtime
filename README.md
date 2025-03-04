@@ -1,2 +1,5 @@
-# firefox-aurora-runtime
-A simple binary for running Firefox with toml-config.
+# Firefox Dev(Aurora) Runtime for *nix systems.
+
+A simple binary for launching Firefox with a toml config.
+
+Allows you to conveniently configure Firefox launch from any directory using a simple config.
