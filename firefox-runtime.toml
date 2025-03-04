@@ -1,0 +1,13 @@
+# Firefox Aurora Runtime Configuration
+
+[general]
+moz_path = "/opt/firefox-dev/firefox"
+native_messaging_path = "/usr/lib64/mozilla/native-messaging-hosts/"
+
+[wayland]
+enable = true
+
+[desktop]
+enable_kde_integration = true
+enable_gnome_integration = true
+
