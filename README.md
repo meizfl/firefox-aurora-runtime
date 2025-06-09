@@ -1,4 +1,4 @@
-# Firefox Dev(Aurora) Runtime for *nix systems.
+# Firefox (All versions) Runtime for *nix systems.
 
 A simple binary for launching Firefox with a toml config.
 
